@@ -1,0 +1,28 @@
+{
+  "name": "richpresence",
+  "version": "0.1.1",
+  "description": "discord bot in javascript",
+  "main": "rp.js",
+  "dependencies": {
+    "discord-rpc": "3.0.0-beta.12",
+    "discord.js": "^11.0.0",
+    "easytimer.js": "^3.0.1",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.0.0-b21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndyV/Rich-Presence-Template.git"
+  },
+  "keywords": [
+    "RPC"
+  ],
+  "author": "m7md#9999",
+  "license": "MIT",
+ 
+  "homepage": "https://github.com/ahmedriaz9908/discord-test-bot-packages/new/master"
+}
