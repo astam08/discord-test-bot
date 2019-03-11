@@ -16,13 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IndyV/Rich-Presence-Template.git"
+    "url": "git+https://github.com/ahmedriaz9908/discord-test-bot.git"
   },
   "keywords": [
-    "RPC"
+    "bot"
   ],
   "author": "m7md#9999",
   "license": "MIT",
- 
   "homepage": "https://github.com/ahmedriaz9908/discord-test-bot-packages/new/master"
 }
