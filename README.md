@@ -10,5 +10,5 @@ run `npm install`
 -----
 run `node bot.js`
 -----
-Your bot should be online xd
+Your bot should be online 
 -----
