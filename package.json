@@ -2,7 +2,7 @@
   "name": "richpresence",
   "version": "0.1.1",
   "description": "discord bot in javascript",
-  "main": "rp.js",
+  "main": "bot.js",
   "dependencies": {
     "discord-rpc": "3.0.0-beta.12",
     "discord.js": "^11.0.0",
