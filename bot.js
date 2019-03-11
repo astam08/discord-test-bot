@@ -7,8 +7,8 @@ client.on('message', async message => { //this is a message event. it triggers w
 var args = message.content.slice(prefix.length).trim().split(/ +/g) 
 
 //this is args, the arguments in commands. For example, 
-//?skiddle doodle you're now a noodle 
-// would return ["doodle", "you're", "now", "a", "noodle"]
+//?skidaddle skidoodle you're now a noodle 
+// would return ["skidoodle", "you're", "now", "a", "noodle"]
 
 var command = args.shift().toLowerCase();
 
